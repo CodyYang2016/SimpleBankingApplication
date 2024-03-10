@@ -1,0 +1,2 @@
+# SimpleBankingApplication
+Frontend, Backend, Database
